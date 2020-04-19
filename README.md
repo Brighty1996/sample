@@ -15,3 +15,8 @@ Create new project in cmd - ng new todo
 Path add - cd todo
 
 Run the application - ng serve
+
+## Create Component:
+
+Create new component in cmd - ng generate component sample
+
