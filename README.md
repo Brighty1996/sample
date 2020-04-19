@@ -20,3 +20,25 @@ Run the application - ng serve
 
 Create new component in cmd - ng generate component sample
 
+```
+
+## First Commit in git
+
+After create the project, go to the project folder -> right click and select 'git Bash here'
+
+commands are,
+
+git init
+git add * 
+git commit -m "first commit"  
+git remote add origin https://github.com/Brighty1996/sample.git
+git push -u origin master
+
+## Commit in Existing Project
+
+git status
+git add *
+git commit -m "second commit"
+git push -u origin master
+
+```
