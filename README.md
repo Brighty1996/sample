@@ -1,27 +1,17 @@
-# Sample
+# First Angular Sample Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
+Check the version of node = node -v
 
-## Development server
+Check the version of npm = npm -v
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Install angular cli - npm install -g @angular/cli@7.0.3
 
-## Code scaffolding
+Check the version og ng = ng version
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Create Project:
 
-## Build
+Create new project in cmd - ng new todo
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Path add - cd todo
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Run the application - ng serve
